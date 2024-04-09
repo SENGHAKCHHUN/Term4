@@ -10,5 +10,4 @@ export class Customer{
     setAddress(address : Address){
         this.address.push(address)
     }
-    
 }

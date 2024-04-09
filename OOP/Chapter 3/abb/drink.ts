@@ -17,3 +17,4 @@ class Coffee extends Drink{
 
 let mydailycoffee = new Coffee("Khmer coffee", 2500, 123)
 console.log(mydailycoffee)
+
