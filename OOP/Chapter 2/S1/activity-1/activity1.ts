@@ -6,7 +6,6 @@ class House {
 }
 class Room {
   mainWindow: Windows
-
   constructor() {
       this.mainWindow = new Windows("WHITE");
   }
